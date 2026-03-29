@@ -28,8 +28,8 @@ AI-powered chatbot that uses Retrieval-Augmented Generation (RAG) for intelligen
 ### Setup
 
 ```bash
-git clone https://github.com/SatyamMishra002/GenAi_chatbot.git
-cd GenAi_chatbot
+git clone https://github.com/feroxcore/GenAI_chatbot.git
+cd GenAI_chatbot
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
@@ -61,18 +61,3 @@ Deployment Options
 * Production: Use Gunicorn or Docker
     * docker-compose.yml included for easy container management
     * Deployable to AWS, Heroku, or other cloud platforms
-
-Contributing Guide
-Contributions are welcome!
-1. Fork the repo
-2. Create a branch (git checkout -b feature/my-feature)
-3. Make your changes with clear commit messages
-4. Submit a pull request
-Guidelines: Follow PEP8, write tests for new features, update documentation.
-
-License
-Licensed under the MIT License—see LICENSE for details.
-
-About Me
-Satyam Mishra Assistant Manager (Python Developer) @ PPFAS AMC Based in Mumbai, passionate about AI/ML and actively exploring generative AI and LLMs.
-Connect with me on [LinkedIn](https://www.linkedin.com/in/satyammishracs).
