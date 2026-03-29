@@ -1,7 +1,7 @@
 
 
 
-# GenAi_chatbot
+# GenAI_chatbot
 
 AI-powered chatbot that uses Retrieval-Augmented Generation (RAG) for intelligent document Q&A and semantic search.
 
